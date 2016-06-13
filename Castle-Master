@@ -12,15 +12,9 @@
 			</titleStmt>
 		<publicationStmt>
 			<distributor><name>Open Anthology of Literature</name></distributor>
-			<idno type="ota">http://ota.ox.ac.uk/id/4406</idno>
-			<idno type="isbn10">1106014057</idno>
-			<idno type="isbn13">9781106014054</idno>
-			<idno type="TCP">K054688.000</idno>
-			<idno type="BIBNO">CW3312976075</idno>
-			<idno type="ECLL">0507001200</idno>
 			<availability status="free">
 				<licence target="http://creativecommons.org/licenses/by-sa/3.0/">
-					Distributed by the The University of Virginia under a Creative Commons Attribution-ShareAlike 3.0 Unported License. Anyone is free to use or alter this text as they see fit. 
+					This edition is adapted from the edition created by the Text Creation Partnership and the Oxford Text Archive. We have proofread thoroughly, and changed the long "s" of the original text to a modern s. We have also added notes to gloss the text. Distributed by the The University of Virginia under a Creative Commons Attribution-ShareAlike 3.0 Unported License. Anyone is free to use or alter this text as they see fit. 
 					</licence>
 				</availability>
 			</publicationStmt>
